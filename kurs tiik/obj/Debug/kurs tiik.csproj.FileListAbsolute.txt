@@ -1,0 +1,13 @@
+D:\level 3\sem 2\tiik\kurs\kurs tiik\kurs tiik\bin\Debug\kurs tiik.exe.config
+D:\level 3\sem 2\tiik\kurs\kurs tiik\kurs tiik\bin\Debug\kurs tiik.exe
+D:\level 3\sem 2\tiik\kurs\kurs tiik\kurs tiik\bin\Debug\kurs tiik.pdb
+D:\level 3\sem 2\tiik\kurs\kurs tiik\kurs tiik\obj\Debug\kurs tiik.csproj.AssemblyReference.cache
+D:\level 3\sem 2\tiik\kurs\kurs tiik\kurs tiik\obj\Debug\kurs tiik.csproj.SuggestedBindingRedirects.cache
+D:\level 3\sem 2\tiik\kurs\kurs tiik\kurs tiik\obj\Debug\kurs_tiik.CRC.resources
+D:\level 3\sem 2\tiik\kurs\kurs tiik\kurs tiik\obj\Debug\kurs_tiik.Form1.resources
+D:\level 3\sem 2\tiik\kurs\kurs tiik\kurs tiik\obj\Debug\kurs_tiik.Haffman.resources
+D:\level 3\sem 2\tiik\kurs\kurs tiik\kurs tiik\obj\Debug\kurs_tiik.Properties.Resources.resources
+D:\level 3\sem 2\tiik\kurs\kurs tiik\kurs tiik\obj\Debug\kurs tiik.csproj.GenerateResource.cache
+D:\level 3\sem 2\tiik\kurs\kurs tiik\kurs tiik\obj\Debug\kurs tiik.csproj.CoreCompileInputs.cache
+D:\level 3\sem 2\tiik\kurs\kurs tiik\kurs tiik\obj\Debug\kurs tiik.exe
+D:\level 3\sem 2\tiik\kurs\kurs tiik\kurs tiik\obj\Debug\kurs tiik.pdb
